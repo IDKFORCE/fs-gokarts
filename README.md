@@ -1,6 +1,6 @@
 # fs-gokarts
 
-- [Discord](https://discord.gg/6kJ5ubDEWE)
+- [Discord](https://discord.gg/UFng7DWnWP)
 
 
 ## Script Soon Is Still Working On It
