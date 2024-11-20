@@ -1,5 +1,4 @@
-# fs-gokarts
-
+---
 - [Discord](https://discord.gg/UFng7DWnWP)
 
 
