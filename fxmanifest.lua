@@ -1,6 +1,10 @@
 fx_version 'cerulean'
 game 'gta5'
-author '⸸♱♥IDK_FORCE♥♱⸸#7611'
-description 'fs-gokarts'
+
+author 'GhostFaceScripts'
+description 'GhostFace GoKarts'
+version '1.0.0'
+
+lua54 'yes'
 
 this_is_a_map 'yes'
